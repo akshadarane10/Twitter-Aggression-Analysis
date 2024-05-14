@@ -40,5 +40,5 @@ A set of classification models to be trained and assessed is provided, which inc
 The for loop iterates through each model, trains it on training data, predicts labels for both training and testing datasets, and computes accuracy scores for both datasets. The accuracy score indicates how effectively the model is performing. If the accuracy score is low, it indicates that the model is underperforming and should be improved.
 
 # Author
-Akshada Rane
-Sai Kumar
+- Akshada Rane
+- Sai Kumar
