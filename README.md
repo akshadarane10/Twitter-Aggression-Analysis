@@ -6,18 +6,19 @@ This repository contains code for a text classification project that aims to cla
 If you find this repository useful, please consider citing the dataset and shared task report as follows:
 
 # Dataset Citation
-Title: Aggression-annotated Corpus of Hindi-English Code-mixed Data
-Authors: Ritesh Kumar, Aishwarya N. Reganti, Akshit Bhatia, Tushar Maheshwari
-Year: 2018
-Published in: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)
-DOI: ISBN 979-10-95546-00-9
-License: CC-BY-NC-SA 4.0
-Shared Task Report Citation
-Title: Benchmarking Aggression Identification in Social Media
-Authors: Ritesh Kumar, Atul Kr. Ojha, Shervin Malmasi, Marcos Zampieri
-Year: 2018
-Published in: Proceedings of the First Workshop on Trolling, Aggression and Cyberbullying (TRAC-2018)
-URL: https://www.aclweb.org/anthology/W18-4401
+- Title: Aggression-annotated Corpus of Hindi-English Code-mixed Data
+- Authors: Ritesh Kumar, Aishwarya N. Reganti, Akshit Bhatia, Tushar Maheshwari
+- Year: 2018
+- Published in: Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)
+- DOI: ISBN 979-10-95546-00-9
+- License: CC-BY-NC-SA 4.0
+
+# Shared Task Report Citation
+- Title: Benchmarking Aggression Identification in Social Media
+- Authors: Ritesh Kumar, Atul Kr. Ojha, Shervin Malmasi, Marcos Zampieri
+- Year: 2018
+- Published in: Proceedings of the First Workshop on Trolling, Aggression and Cyberbullying (TRAC-2018)
+- URL: https://www.aclweb.org/anthology/W18-4401
 
 # Process Used for the project:
 # Step 1: Data Extraction
